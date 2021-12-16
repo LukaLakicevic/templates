@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="play_me">Play me</string>
+    <string name="next">Next</string>
+    <string name="menu">Menu</string>
+    <string name="long_string">
+        Another case for using let is introducing local variables with a limited scope for improving code readability.
+        To define a new variable for the context object, provide its name as the lambda argument so that it can be used
+        instead of the default it.
+        Another case for using let is introducing local variables with a limited scope for improving code readability.
+        To define a new variable for the context object, provide its name as the lambda argument so that it can be used
+        instead of the default it.
+        Another case for using let is introducing local variables with a limited scope for improving code readability.
+        To define a new variable for the context object, provide its name as the lambda argument so that it can be used
+        instead of the default it.
+        Another case for using let is introducing local variables with a limited scope for improving code readability.
+        To define a new variable for the context object, provide its name as the lambda argument so that it can be used
+        instead of the default it.
+        Another case for using let is introducing local variables with a limited scope for improving code readability.
+        To define a new variable for the context object, provide its name as the lambda argument so that it can be used
+        instead of the default it.
+        Another case for using let is introducing local variables with a limited scope for improving code readability.
+        To define a new variable for the context object, provide its name as the lambda argument so that it can be used
+        instead of the default it.
+        Another case for using let is introducing local variables with a limited scope for improving code readability.
+        To define a new variable for the context object, provide its name as the lambda argument so that it can be used
+        instead of the default it.
+        Another case for using let is introducing local variables with a limited scope for improving code readability.
+        To define a new variable for the context object, provide its name as the lambda argument so that it can be used
+        instead of the default it.
+        Another case for using let is introducing local variables with a limited scope for improving code readability.
+        To define a new variable for the context object, provide its name as the lambda argument so that it can be used
+        instead of the default it.
+        Another case for using let is introducing local variables with a limited scope for improving code readability.
+        To define a new variable for the context object, provide its name as the lambda argument so that it can be used
+        instead of the default it.
+        Another case for using let is introducing local variables with a limited scope for improving code readability.
+        To define a new variable for the context object, provide its name as the lambda argument so that it can be used instead of the default it.</string>
+    <string name="previous">Previous</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
